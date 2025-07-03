@@ -1,0 +1,8 @@
+# Example input for GCMC simulation using reduced LJ units
+box_length 10.0
+temperature 1.0
+mu -3.0
+steps 5000
+max_disp 0.2
+cutoff 2.5
+seed 42
